@@ -8,9 +8,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.3.1",
+    "@mui/material": "^5.3.1",
+    "@mui/styles": "^5.3.0",
+    "@next-tools/dynamic": "^0.0.11",
+    "axios": "^0.25.0",
+    "bcrypt": "^5.0.1",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.8",
     "next": "12.0.9",
+    "next-connect": "^0.11.0",
+    "notistack": "^2.0.3",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.25.3"
   },
   "devDependencies": {
     "eslint": "8.7.0",
